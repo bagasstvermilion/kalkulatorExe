@@ -8,7 +8,7 @@ public class MainApp {
         frame.setSize(414, 500);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
-        String imagePath = "C:\\Users\\bagas\\OneDrive\\Dokumen\\Tugas Telkom\\Tugas Semester 3\\AKA\\Latihan Java\\SimpleGUI\\src\\main\\java\\image\\latarBelakang.jpg";
+        String imagePath = "\\C:\\Users\\bagas\\OneDrive\\Dokumen\\Tugas Telkom\\Tugas Semester 3\\AKA\\Latihan Java\\Kalkulator.exe\\src\\main\\java\\image\\latarBelakang.jpg\\";
 
         BackgroundPanel backgroundPanel = new BackgroundPanel(imagePath);
         frame.setContentPane(backgroundPanel);
